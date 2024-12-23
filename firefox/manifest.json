@@ -1,0 +1,11 @@
+{
+    "manifest-version": 3,
+    "name": "Chamomile",
+    "version": "0.1-indev",
+
+    "description": "Chamomile is designed to allow for easy online couponing, without predatory money-making tactics.",
+
+    "icons": {
+        "48": "img/chamomile-lazy.png"
+    }
+}
